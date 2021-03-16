@@ -1,0 +1,28 @@
+1-supprimer ligne commence par p
+	- ^p
+2-remplacer les o par des *
+	- o yytext = 
+3-supprimer les espaces et les remplacer par un seul espace " "
+	- (" ")+ 
+
+exercice a faire : 
+	creer un automate chyaamel?
+		yefhem el if wel while wel pour 
+		w les { }
+		// partie
+
+----- Lyoum --------
+
+exerice : 
+parenttesage correct 
+parentesage incorrect plusieur ))
+parentesage incorrect plusieur (( 
+--->
+
+nombre de parenthese 
+nombre de parenthese en exces
+compter le nombre 
+validité des parenthese (msg ouvrant ala fermant)
+calculer les niveaux 
+
+
